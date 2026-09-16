@@ -1,14 +1,15 @@
-# Watch-Ahead Playlist — homework preps the next session
+# Watch-Ahead Playlist — homework that preps the next session
 
-**How this works.** Every homework brief ends with the watch-ahead: 2–3 short
-videos and a blog post or two that prep the *next* session's topic. Total
-budget ≤ ~45 minutes of watching. Class starts primed, not cold — the opener
-assumes you've seen these. Rule of thumb carried from everything else in this
-course: what the video claims, verify by running.
+**How this works.** Every homework brief ends with a watch-ahead: two or
+three short videos and a blog post or two that set up the *next* session's
+topic. Budget about 45 minutes of watching, total. The idea is that class
+starts warm instead of cold, since the opener assumes you've seen these. Same
+rule as everywhere else in this course: if a video claims something, check it
+by running it.
 
-**One-click playlist.** Open this link and YouTube assembles the 27 verified
-videos into a playlist in week order — then hit ⋮ → *Save playlist* to put it
-on the course account and rename it **C12 Watch-Ahead**:
+**One-click playlist.** Open this link and YouTube will build a playlist of
+all 27 videos in week order. Then hit ⋮ → *Save playlist* to put it on the
+course account and rename it **C12 Watch-Ahead**:
 
 <https://www.youtube.com/watch_videos?video_ids=26ls5lNiijk,pomxJOFVcQs,mMsZPZKNc4g,Yh4CrPHVBdE,SLwpqD8n3d0,iYM2zFP3Zn0,HTUh0OO6Kmo,DkhhE97Swmo,K74l26pE4YA,8aGhZQkoFbQ,RvYYCGs45L4,vn3tm0quoqE,VyWRmepESoQ,OUDV1gqs9GA,fyTxwIa-1U0,ZV5yTm4pT8g,DXTHb9TqJOs,oUJbuFMyBDk,Gjnup-PuquQ,PziYflu8cB8,scEDHsr3APg,u6QfIXgjwGQ,a3SMraZWNNs,-qNSXK7s7_w,VMpTU15rIZY,Unzc731iCUY,17XZGUX_9iM>
 
@@ -23,8 +24,8 @@ on the course account and rename it **C12 Watch-Ahead**:
 - 🎬 Hussein Nasser — *Relational Database ACID Transactions (Explained by Example)*:
   <https://www.youtube.com/watch?v=pomxJOFVcQs>
 - 📖 Prisma Data Guide — *Data modeling* intro: <https://www.prisma.io/dataguide>
-- Why these: your entity sketch is due wk 2 — arrive knowing what a relation
-  and a transaction are before you draw one.
+- Why these: your entity sketch is due in week 2, so show up already knowing
+  what a relation and a transaction are.
 
 ## Before the Wk 3 session · SQL & migrations — assigned with wk-2 homework
 
@@ -35,9 +36,10 @@ on the course account and rename it **C12 Watch-Ahead**:
 - 📖 Coding Horror — *A Visual Explanation of SQL Joins*:
   <https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/>
 - 📖 Martin Fowler — *Evolutionary Database Design*:
-  <https://martinfowler.com/articles/evodb.html> (skim — the "why append-only" of it)
-- Why these: kickoff week. You'll write your first real migration; know what
-  a join is before `GROUP BY` gets revealed in the opener.
+  <https://martinfowler.com/articles/evodb.html> (skim it for why migrations
+  only get added, never edited)
+- Why these: it's kickoff week and you'll write your first real migration.
+  Know what a join is before `GROUP BY` shows up in the opener.
 
 ## Before the Wk 4 session · APIs & validation — assigned with wk-3 homework
 
@@ -52,12 +54,12 @@ on the course account and rename it **C12 Watch-Ahead**:
   <https://www.youtube.com/watch?v=HTUh0OO6Kmo>
 - 🎬 JetBrains Academy — *The Psychology of Learning to Code*:
   <https://www.youtube.com/watch?v=DkhhE97Swmo>
-- Why these: wk 4 includes the full request-anatomy trace — DNS to render.
-  Arrive knowing what a header is; leave knowing what your app does with it.
-  The two JetBrains talks are the other thread: three weeks in, with AI in
-  your editor daily, they name what accelerates learning and what quietly
-  replaces it — the mindset the course opened with, now that you have
-  enough reps to recognize it in yourself.
+- Why these: week 4 traces a full request, from DNS to render. Arrive knowing
+  what a header is, and you'll leave knowing what your app does with it. The
+  two JetBrains talks are a different thread. You're three weeks in with AI in
+  your editor every day, and they name what speeds up your learning and what
+  quietly replaces it. That's the mindset the course opened with, and by now
+  you have enough practice to spot it in yourself.
 
 ## Before the Wk 5 session · Components & state — assigned with wk-4 homework
 
@@ -65,14 +67,14 @@ on the course account and rename it **C12 Watch-Ahead**:
   <https://www.youtube.com/watch?v=K74l26pE4YA>
 - 📖 Josh Comeau — *An Interactive Guide to Flexbox* (play with the demos):
   <https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/>
-- 📖 React docs — *Thinking in React* (the mental model wk 5 builds on):
+- 📖 React docs — *Thinking in React* (the mental model week 5 builds on):
   <https://react.dev/learn/thinking-in-react>
-- Why these: wk 5 is components & state, not layout — but its
-  layout-literacy segment assumes you've *seen* flexbox (your product UI
-  starts this week, and the wk-7 audit will read your markup). *Thinking
-  in React* is the other half: how a UI becomes components and where
-  state lives. Need more flexbox? CSS-Tricks' *Complete Guide* is the
-  bookmark: <https://css-tricks.com/snippets/css/a-guide-to-flexbox/>
+- Why these: week 5 is about components and state rather than layout, but the
+  layout-literacy segment assumes you've at least seen flexbox. Your product
+  UI starts this week, and the week-7 audit will read your markup. *Thinking
+  in React* covers the other half: how a UI becomes components and where state
+  should live. If you want more flexbox, bookmark CSS-Tricks' *Complete
+  Guide*: <https://css-tricks.com/snippets/css/a-guide-to-flexbox/>
 
 ## Before the Wk 6 session · Async & data fetching — assigned with wk-5 homework
 
@@ -83,8 +85,8 @@ on the course account and rename it **C12 Watch-Ahead**:
   Promised*: <https://www.youtube.com/watch?v=vn3tm0quoqE>
 - 📖 Jake Archibald — *Tasks, microtasks, queues and schedules*:
   <https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/>
-- Why these: the wk-6 opener is a promise-order prediction. The event-loop
-  talk is the single highest-value 26 minutes in this playlist.
+- Why these: the week-6 opener asks you to predict the order promises resolve
+  in. The event-loop talk is the best 26 minutes in this playlist.
 
 ## Before the Wk 7 session · Accessibility — assigned with wk-6 homework
 
@@ -93,10 +95,11 @@ on the course account and rename it **C12 Watch-Ahead**:
 - 🎬 Smashing Magazine — *How A Screen Reader User Surfs The Web*:
   <https://www.youtube.com/watch?v=OUDV1gqs9GA>
 - 📖 WebAIM — *Introduction to Web Accessibility*: <https://webaim.org/intro/>
-- 📖 The A11y Project — *Checklist* (skim; it's wk 7's audit rubric):
+- 📖 The A11y Project — *Checklist* (skim it; it's the week-7 audit rubric):
   <https://www.a11yproject.com/checklist/>
-- Why these: the audit lands on *your* product wk 7. Watching a real
-  screen-reader session reframes it from compliance to empathy in 10 minutes.
+- Why these: the audit lands on your own product in week 7. Watching someone
+  actually use a screen reader turns accessibility from a compliance task into
+  something you care about, and it takes 10 minutes.
 
 ## Before the Wk 8 session · Auth & security — assigned with wk-7 homework
 
@@ -106,33 +109,34 @@ on the course account and rename it **C12 Watch-Ahead**:
   <https://www.youtube.com/watch?v=ZV5yTm4pT8g>
 - 📖 OWASP — *Session Management Cheat Sheet* (skim the concepts, skip the matrix):
   <https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html>
-- Why these: you've lived with identity-without-authentication since wk 1.
-  These name what's been missing — before the double diff shows it landing.
+- Why these: since week 1 you've been working with identity but no real
+  authentication. These put a name to what's been missing, right before you
+  see it get added.
 
 ## Before the Wk 9 session · Background work — assigned with wk-8 homework
 
 - 🎬 Hussein Nasser — *Publish-Subscribe vs Message Queues vs Request
   Response*: <https://www.youtube.com/watch?v=DXTHb9TqJOs>
 - 🎬 Gaurav Sen — *What is a MESSAGE QUEUE and Where is it used?* (~9 min,
-  vendor-agnostic): <https://www.youtube.com/watch?v=oUJbuFMyBDk>
+  not tied to any vendor): <https://www.youtube.com/watch?v=oUJbuFMyBDk>
 - 📖 Sudhir Jonathan — *The Big Little Guide to Message Queues*:
-  <https://sudhir.io/the-big-little-guide-to-message-queues> (the
-  delivery-guarantees section is wk 9's resilience segment in prose)
-- Why these: at-least-once vs at-most-once will get named in class; arrive
-  having met the idea.
+  <https://sudhir.io/the-big-little-guide-to-message-queues> (the section on
+  delivery guarantees is week 9's resilience segment, in writing)
+- Why these: at-least-once and at-most-once delivery come up by name in class.
+  Show up having met the idea once already.
 
 ## Before the Wk 10 session · Ship to the cloud — assigned with wk-9 homework
 
 - 🎬 Fireship — *Docker in 100 Seconds*:
   <https://www.youtube.com/watch?v=Gjnup-PuquQ>
-- 🎬 Fireship — *Kubernetes Explained in 100 Seconds* (breadth — you deploy
-  simpler than this): <https://www.youtube.com/watch?v=PziYflu8cB8>
+- 🎬 Fireship — *Kubernetes Explained in 100 Seconds* (for context; what you
+  deploy is simpler than this): <https://www.youtube.com/watch?v=PziYflu8cB8>
 - 🎬 Fireship — *DevOps CI/CD Explained in 100 Seconds*:
   <https://www.youtube.com/watch?v=scEDHsr3APg>
-- 📖 *The Twelve-Factor App* (read factors I–V + XI):
+- 📖 *The Twelve-Factor App* (read factors I–V and XI):
   <https://12factor.net/>
-- Why these: deploy week moves fast; the vocabulary (image, registry,
-  revision, env config) should not be new on the night.
+- Why these: deploy week moves fast. Words like image, registry, revision, and
+  env config shouldn't be brand new to you that night.
 
 ## Before the Wk 11 session · Testing & CI/CD — assigned with wk-10 homework
 
@@ -144,8 +148,9 @@ on the course account and rename it **C12 Watch-Ahead**:
   <https://kentcdodds.com/blog/write-tests>
 - 📖 Kent C. Dodds — *The Testing Trophy and Testing Classifications*:
   <https://kentcdodds.com/blog/the-testing-trophy-and-testing-classifications>
-- Why these: "tests that can't fail don't count" gets its theory here — and
-  evals-not-asserts lands easier if you've seen the eval idea once.
+- Why these: this is where "tests that can't fail don't count" gets its
+  reasoning. And the idea of evals instead of assertions is easier to follow
+  if you've seen it once before.
 
 ## Before the Wk 12 session · Performance & observability — assigned with wk-11 homework
 
@@ -153,21 +158,22 @@ on the course account and rename it **C12 Watch-Ahead**:
   <https://www.youtube.com/watch?v=-qNSXK7s7_w>
 - 🎬 Brendan Gregg — *The Developers' Guide to Flame Graphs* (YOW! 2022 —
   first ~20 min): <https://www.youtube.com/watch?v=VMpTU15rIZY>
-- 📖 *Use the Index, Luke* — Preface + Anatomy of an Index:
+- 📖 *Use the Index, Luke* — Preface and Anatomy of an Index:
   <https://use-the-index-luke.com/>
 - 📖 Brendan Gregg — *Flame Graphs*:
   <https://www.brendangregg.com/flamegraphs.html>
-- Why these: harvest week. F1 and F5 get exposed by exactly these two tools;
-  fellows who did the reading get to say "I know what that is" out loud.
+- Why these: it's harvest week. F1 and F5 get found by exactly these two
+  tools, and anyone who did the reading gets to say "I know what that is" out
+  loud.
 
 ## Before the Wk 13 session · Demo day — assigned with wk-12 homework
 
 - 🎬 Patrick Winston (MIT) — *How to Speak*:
-  <https://www.youtube.com/watch?v=Unzc731iCUY> (watch the first 20 min —
-  openings, empowerment promise)
+  <https://www.youtube.com/watch?v=Unzc731iCUY> (watch the first 20 min, on
+  openings and the empowerment promise)
 - 🎬 Kevin Hale (Y Combinator) — *How to Pitch Your Startup* (~33 min; the
-  first half carries it — clarity, "what do you do," the legible pitch):
-  <https://www.youtube.com/watch?v=17XZGUX_9iM>
-- 📖 Your own team's README and one-pager — the demo script starts there.
-- Why these: every member presents. Ten minutes of craft beats an hour of
-  rehearsal-by-anxiety.
+  first half is the important part, on clarity and explaining what you
+  actually do): <https://www.youtube.com/watch?v=17XZGUX_9iM>
+- 📖 Your own team's README and one-pager. Your demo script starts there.
+- Why these: everyone on the team presents. Ten minutes spent on how to
+  present beats an hour of anxious rehearsing.

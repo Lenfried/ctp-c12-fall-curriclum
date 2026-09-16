@@ -1,79 +1,84 @@
-# Writing Your Team Charter — the how-to
+# How to Write Your Team Charter
 
-*The charter is **week 3's homework** — assigned the night your schema
-lands. Write it as a team in one sitting this week (section 4 first,
-while the kickoff review is still fresh); the **whole charter is merged
-into your team repo by the week-4 session.** Revisited at midterm.*
+*The charter is **week 3's homework**, assigned the night your schema lands.
+Write it as a team in one sitting this week. Start with section 4, while the
+kickoff review is still fresh. The **whole charter is merged into your team
+repo by the week-4 session**, and you'll come back to it at midterm.*
 
-A charter is the agreement your team would otherwise make by accident in
-week 6, in the middle of an argument. Writing it in week 3 costs an hour.
-Not writing it costs the argument.
+A charter is the set of agreements your team will end up making anyway. The
+only question is whether you make them now, calmly, or in week 6 in the
+middle of an argument. Writing it takes about an hour.
 
 ## The three documents
 
-- **[charter-template.md](charter-template.md)** — the blank. Every section
-  is required; the prompts in *(italics)* are the questions to answer.
+- **[charter-template.md](charter-template.md)** — the blank form. Every
+  section is required, and the prompts in *(italics)* are the questions to
+  answer.
 - **[charter-example.md](charter-example.md)** — a finished charter for a
-  fictional team. Read it once, start to finish, before you fill in the
-  blank. Copy the *shape* — the level of specificity, the way it names
-  people and times — not the answers.
-- This guide — what "good" looks like and what your TA is checking.
+  made-up team. Read the whole thing before you fill in the blank one. Copy
+  how specific it is and the way it names real people and real times. Don't
+  copy the answers.
+- This guide — what a good charter looks like and what your TA will check.
 
 ## Where it lives
 
-In your team channel as a canvas. 
+In your team channel, as a canvas.
 
-## How to write it — one team sitting, about an hour
+## How to write it: one team sitting, about an hour
 
-1. **Read the example together** (10 min). Out loud, on a shared screen.
-   Stop at anything that wouldn't work for you — those are your team's
-   real answers.
-2. **Fill sections 1–3 in one sitting** (30 min). The sections that cause
-   trouble later are the ones people skip: *Availability notes* (say the
-   job, the kid, the time zone, the class — now, not in week 8) and *How
-   we decide when we disagree* (pick a rule before you need one).
-3. **Roles & responsibilities** (10 min). Decide what rotates and what's
-   standing. Most teams rotate a stand-up lead and a review captain and
-   keep jigsaw-aspect ownership standing. Write down *who has it this
-   week* in the channel, not just the rule.
-4. **Rituals** (10 min). At minimum: a stand-up slot with a hard stop, the
-   in-class team review, and one async touchpoint. If you can't name the
-   day and time, it isn't a ritual yet.
-5. **Section 4 first, actually.** Review norms written *before* you've
-   reviewed a real PR are fiction — you just reviewed one at kickoff, so
-   write those norms while it's fresh, even if the rest waits a day.
+1. **Read the example together** (10 min). Out loud, on a shared screen. Stop
+   anywhere it wouldn't work for your team. Those spots are where your real
+   answers are.
+2. **Fill in sections 1–3** (30 min). The sections people skip are the ones
+   that cause trouble later. For *availability notes*, say now if you have a
+   job, a kid, a different time zone, or another class. Saying it in week 8 is
+   too late. For *how we decide when we disagree*, pick a rule before you
+   need one.
+3. **Roles and responsibilities** (10 min). Decide what rotates and what stays
+   with one person. Most teams rotate the stand-up lead and the review
+   captain, and keep jigsaw-aspect ownership fixed. Post who has each role
+   this week in the channel, not just the rule for how it rotates.
+4. **Rituals** (10 min). At minimum: a stand-up with a hard stop, the in-class
+   team review, and one async check-in. If you can't name the day and the
+   time, it isn't a ritual yet.
+5. **Really, start with section 4.** Review norms written before you've
+   reviewed a real PR are guesswork. You just reviewed one at kickoff, so
+   write those norms while it's fresh, even if the rest of the charter waits
+   a day.
 6. **Sign it.** Names and a date. Merge.
 
-## What "good" looks like
+## What a good charter looks like
 
-A good charter names **people, days, and times**, not intentions. Compare:
+A good charter names people, days, and times instead of intentions. Compare:
 
-| Vague (rewrite it) | Specific (ship it) |
+| Too vague (rewrite it) | Specific enough (ship it) |
 |---|---|
-| "We'll communicate regularly." | "Slack, 24h weekday response, 'seen — tonight' counts." |
-| "Everyone contributes equally." | "One merged PR + one review each, every week; stand-up lead rotates." |
-| "We'll review each other's code." | "Review captain responds within 24h; `blocker:` / `q:` / `nit:`; style never blocks." |
-| "We'll resolve conflicts maturely." | "Ten minutes to agree, then build the smaller version; product calls → pitcher." |
+| "We'll communicate regularly." | "Slack, 24h response on weekdays. 'Seen, answering tonight' counts." |
+| "Everyone contributes equally." | "One merged PR and one review each, every week. Stand-up lead rotates." |
+| "We'll review each other's code." | "Review captain responds within 24h. `blocker:` / `q:` / `nit:`. Style never blocks." |
+| "We'll resolve conflicts maturely." | "Ten minutes to agree, then build the smaller version. Product calls go to the pitcher." |
 
-If a sentence could appear unchanged in every other team's charter, it
+If a sentence could show up word for word in every other team's charter, it
 isn't saying anything yet.
 
-## What your we'll check
+## What we'll check
 
-- Every section present — including *Availability notes* with real
-  constraints and *Definition of done* that says "merged + reviewed + runs
-  at the preview URL."
-- Roles: something rotates, and the current holder is visible somewhere.
+- Every section filled in, including *availability notes* with real
+  constraints and a *definition of done* that says "merged, reviewed, and
+  running at the preview URL."
+- Roles: something rotates, and anyone can see who has it right now.
 - Rituals: a stand-up with a day, a time, and a length.
-- Section 4 written after kickoff, not before (the norms should mention
-  something you learned reviewing a real migration).
-- The three course-level rules appear unchanged: no AI code merges unread,
-  verify by running, stuck protocol.
+- Section 4 written after kickoff, not before. The norms should mention
+  something you learned reviewing a real migration.
+- The three course rules copied as written: no AI code merged unread, verify
+  by running, and the stuck protocol.
 
-## Revisiting it
+## Coming back to it
 
-The charter is a living document with two scheduled edits — the **midterm
-retro (week 7)** and **before demo day** — plus any time a rule stops
-being true. Editing it is a PR like any other. A charter nobody has
-touched since it merged usually means the team is running on a different,
-unwritten one; find out which rules changed and write those down instead.
+The charter is meant to change. Two edits are already on the calendar: the
+**midterm retro in week 7** and **the week before demo day**. Edit it any
+other time a rule stops being true. Editing it is a PR like anything else.
+
+If nobody has touched the charter since it merged, the team is usually
+running on a different set of rules that nobody wrote down. Work out which
+rules actually changed and write those down.
